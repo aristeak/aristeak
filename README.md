@@ -15,6 +15,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aristeak&show_icons=true&locale=en&layout=compact" alt="aristeak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aristeak&" alt="aristeak" /></p>
 
 
